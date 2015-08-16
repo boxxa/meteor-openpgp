@@ -12,8 +12,6 @@ meteor add boxxa:openpgp
 ```
 
 ```
-var openpgp = require('openpgp');
-
 var options = {
     numBits: 2048,
     userId: 'Jon Smith <jon.smith@example.org>',
