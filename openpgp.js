@@ -1,0 +1,1 @@
+openpgp = Npm.require('openpgp');
